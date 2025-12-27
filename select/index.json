@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "きゅうくらりん",
+  "base_artist": "MORE MORE JUMP!",
+  "createdAt": "2025-12-27T15:49:19.103004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きゅうくらりん - Kyu-kurarin (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&MEIKO)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_きゅうくらりん_-_Kyu-kurarin_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&MEIKO)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "きゅうくらりん",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_きゅうくらりん_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "きゅうくらりん",
+      "artist": "いよわ",
+      "has_synced": true,
+      "path": "select/03_きゅうくらりん_いよわ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "きゅうくらりん (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&MEIKO)",
+      "artist": "MORE MORE JUMP！",
+      "has_synced": true,
+      "path": "select/04_きゅうくらりん_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&MEIKO)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "きゅうくらりん - covered by Axel Syrios【歌ってみた】",
+      "artist": "Axel Syrios Ch. HOLOSTARS-EN",
+      "has_synced": false,
+      "path": "select/05_きゅうくらりん_-_covered_by_Axel_Syrios【歌ってみた】_Axel_Syrios_Ch._HOLOSTARS-EN.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "きゅうくらりん",
+      "artist": "MORE MORE JUMP! (小倉唯, 吉岡茉祐, 降幡愛, 本泉莉奈)",
+      "has_synced": true,
+      "path": "select/06_きゅうくらりん_MORE_MORE_JUMP!_(小倉唯,_吉岡茉祐,_降幡愛,_本泉莉奈).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "きゅうくらりん",
+      "artist": "ハロー、ハッピーワールド! (伊藤美来, 田所あずさ, 吉田有里, 豊田萌絵, 黒沢ともよ)",
+      "has_synced": true,
+      "path": "select/07_きゅうくらりん_ハロー、ハッピーワールド!_(伊藤美来,_田所あずさ,_吉田有里,_豊田萌絵,_黒沢ともよ).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "きゅうくらりん - Cover",
+      "artist": "ハロー、ハッピーワールド!",
+      "has_synced": true,
+      "path": "select/08_きゅうくらりん_-_Cover_ハロー、ハッピーワールド!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きゅうくらりん (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&MEIKO)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/pl_01_きゅうくらりん_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&MEIKO)_MORE_MORE_JUMP!.txt"
+    }
+  ]
+}
